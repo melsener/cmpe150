@@ -17,6 +17,6 @@ You can find the related Xth week's examples above that starts with "weekX".
 Write a function that takes two integers as parameters n and m, and prints out a rectangle nxm using \*.  
 Then write main() appropriately to see the result.
 
-## This week's homework
+## Last week's homework
 Find greatest common divisor (GCD) of two integers using **Euclidean Method**.
 [Solution](https://github.com/melsener/cmpe150/blob/master/week5_hw_solution.c)
