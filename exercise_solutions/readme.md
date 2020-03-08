@@ -8,3 +8,6 @@
 **Ex2:** Write a program to convert a given integer (in seconds) to hours, minutes and seconds.
 [Solution](https://github.com/melsener/cmpe150/tree/master/exercise_solutions/ex2.c)
 
+**Ex3:** Write a program that takes mass of an object as an input (in double datatype) and calculates its weight on the Earth. Use `#define`preprocessor directive. Give output with 3 decimal places.
+[Solution](https://github.com/melsener/cmpe150/tree/master/exercise_solutions/ex3.c)
+
