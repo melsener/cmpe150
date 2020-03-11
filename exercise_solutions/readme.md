@@ -11,3 +11,6 @@
 **Ex3:** Write a program that takes mass of an object as an input (in double datatype) and calculates its weight on the Earth. Use `#define`preprocessor directive. Give output with 3 decimal places.
 [Solution](https://github.com/melsener/cmpe150/tree/master/exercise_solutions/ex3.c)
 
+**Ex4:** Write a program that takes a char as shape type (c for circle, s for square, t for triangle, h for hexagon) and takes a float (radius for circle, one side length for the rest) and calculates and prints the circumference of the desired shape.
+[Solution](https://github.com/melsener/cmpe150/tree/master/exercise_solutions/ex4.c)
+
