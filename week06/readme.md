@@ -59,11 +59,11 @@
 - Input: 3
 - Output: 
 
-	``&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A`` 
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A 
 	
-	``&nbsp; &nbsp; &nbsp; &nbsp; A B A``
+	&nbsp; &nbsp; &nbsp; &nbsp; A B A
 	
-	``&nbsp; &nbsp; A B C B A``
+	&nbsp; &nbsp; A B C B A
 	
 - Input: 5
 - Output:
