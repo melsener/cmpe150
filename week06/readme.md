@@ -68,15 +68,15 @@
 - Input: 5
 - Output:
 
-	``          A`` 
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A 
 	
-	``        A B A`` 
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A B A 
 	
-	``      A B C B A`` 
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A B C B A 
 	
-	``    A B C D C B A`` 
+	&nbsp; &nbsp; &nbsp; &nbsp; A B C D C B A 
 	
-	``  A B C D E D C B A``
+	&nbsp; &nbsp; A B C D E D C B A
 
 
 
