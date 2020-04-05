@@ -21,6 +21,7 @@
 - Example Output:
 
   ``***``
+  
   ``*-*``
 
   ``***``
@@ -30,13 +31,18 @@
 - Example Output:
 
   ``********``
-``*------*``
-``*------*``
-``********``
+  
+	``*------*``
+
+	``*------*``
+
+	``********``
 
 **Ex3: (Teaching.Codes Lab 4 - Question 11 )** Write a program which takes an integer N as input and prints a right triangle which consists of N many lines. 
-	- Example Input: 3 
-	- Example Output:
+
+- Example Input: 3 
+	
+- Example Output:
 		``*``
 		``**``
 		``***``
@@ -48,16 +54,16 @@
 **Ex6:** Write a program which takes an integer as input and prints a triangle of letters as shown below:
 - Input: 3
 - Output: 
-	      A 
-	    A B A 
-	  A B C B A
+	``      A`` 
+	``    A B A``
+	``  A B C B A``
 - Input: 5
 - Output:
-	          A 
-	        A B A 
-	      A B C B A 
-	    A B C D C B A 
-	  A B C D E D C B A
+	``          A`` 
+	``        A B A`` 
+	``      A B C B A`` 
+	``    A B C D C B A`` 
+	``  A B C D E D C B A``
 
 
 
