@@ -44,7 +44,9 @@
 	
 - Example Output:
 		``*``
+		
 		``**``
+		
 		``***``
 
 **Ex4: (Teaching.Codes PS 7 - Page 3 )** Write a program that reads an integer value, and computes the sum of the factorial of each digit . The output will be an integer . For example, assume that the user enters "572" as the input integer. For each digit of the integer, you will compute the factorial. Then you will compute the sum of these factorials: 5! + 7! + 2! = 120 + 5040 + 2 = 5162.
@@ -54,15 +56,24 @@
 **Ex6:** Write a program which takes an integer as input and prints a triangle of letters as shown below:
 - Input: 3
 - Output: 
+
 	``      A`` 
+	
 	``    A B A``
+	
 	``  A B C B A``
+	
 - Input: 5
 - Output:
+
 	``          A`` 
+	
 	``        A B A`` 
+	
 	``      A B C B A`` 
+	
 	``    A B C D C B A`` 
+	
 	``  A B C D E D C B A``
 
 
