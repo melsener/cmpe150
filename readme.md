@@ -18,6 +18,8 @@ You can find the related Xth week's examples above that in the folder "weekX"
 * [Week03](https://github.com/melsener/cmpe150/tree/master/week03) - Char, Constants, Operators
 * Week04 - Control Structures (If, else) - [Burak was the assistant in that week](https://github.com/suyunu/c-notes/tree/master/Week_04)
 * [Week05](https://github.com/melsener/cmpe150/tree/master/week05) - Repetition Statements (while, for)
+* [Week06](https://github.com/melsener/cmpe150/tree/master/week06) - Nested Loops 
+* [Week07](https://github.com/melsener/cmpe150/tree/master/week07) - Functions
 
 
 

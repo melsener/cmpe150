@@ -44,7 +44,7 @@ then if it is, prints its uppercase equivalent via toUpper function:
 - Example Input: 23423 3
 - Example Output: 4
 
-**Ex6: (Teaching.Codes Lab5 - Question 6)** Write a function that takes an integer n and prints a square nxn with \* s. Then fill/write main() appropriately to see the result.
+**Ex6: (Teaching.Codes Lab5 - Question 6)** Write a function that takes an integer n and prints a right triangle. Then fill/write main() appropriately to see the result.
 
 - Example Input: 3 
 	
