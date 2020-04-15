@@ -1,3 +1,13 @@
+### Why do we write ``return 0`` in  ``main``?
+
+Please check links below if you are interested:
+
+- https://stackoverflow.com/a/204483
+- https://stackoverflow.com/a/4207223
+- https://stackoverflow.com/a/10915776
+
+
+
 ## Functions - Exercises
 
 **Ex1:** Write a function that takes a ``char`` and prints the upper version of it. Then organize the ``main`` function as it takes input character from the user, it check whether the given character is a lower-letter. If the input is a lower-letter, then call the function you have written, if not print the character as it is.
