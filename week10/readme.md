@@ -2,7 +2,7 @@
 
 **Ex0:** Create an integer array ``a`` with size 3. Check what does this code segment prints ``printf("%p:array\n",a);``. Then print the address of the first element of the array.  Finally, print the address of ``a``.
 
-**Ex1: ** Write a function that takes an integer array as argument and changes all the elements to 1. Write another function that takes an integer pointer, which will be used for increasing the elements of an array by ``i+1``. In the main, create an integer array and initialize it with 1, 2, 3, 4, 5. 
+**Ex1:**  Write a function that takes an integer array as argument and changes all the elements to 1. Write another function that takes an integer pointer, which will be used for increasing the elements of an array by ``i+1``. In the main, create an integer array and initialize it with 1, 2, 3, 4, 5. 
 	1. Call the first function by passing the array as argument, then print the contents of the array. 
 	2. Call the second function by passing the address of the first element as the argument, then print the contents of the array.
 	3. Call the first function by passing the address of the first element as the argument, then print the contents of the array.
