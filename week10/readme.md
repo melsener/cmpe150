@@ -2,6 +2,10 @@
 
 **Ex0:** Create an integer array ``a`` with size 3. Check what does this code segment prints ``printf("%p:array\n",a);``. Then print the address of the first element of the array.  Finally, print the address of ``a``.
 
+[What’s difference between “array” and “&array” for “int array[5]” ?](https://www.geeksforgeeks.org/whats-difference-between-array-and-array-for-int-array5/)
+
+[Hexadecimal Representation of Numbers](https://en.wikipedia.org/wiki/Hexadecimal)
+
 **Ex1:**  Write a function that takes an integer array as argument and changes all the elements to 1. Write another function that takes an integer pointer, which will be used for increasing the elements of an array by ``i+1``. In the main, create an integer array and initialize it with 1, 2, 3, 4, 5. 
 
  1. Call the first function by passing the array as argument, then print the contents of the array. 
@@ -12,7 +16,7 @@
 
  4. Call the second function by passing the array as argument, then print the contents of the array.
 
-    Hint:** You can define the size of the array by ``#define SIZE 5``. It would make traversing easier.
+    **Hint:** You can define the size of the array by ``#define SIZE 5``. It would make traversing easier.
 
 **Ex2: (Teaching.Codes PS12 - Example 1)** You have integers with size n. You want to change all elements which are equal to the given integer value with another given integer. Write a function that performs this operation, and returns to the number of the changed numbers.
 
@@ -45,7 +49,7 @@
   
 
 **Ex4: (Teaching.Codes Lab 8 - Question 1)** Write a function which takes two integer arrays arr1, arr2, and their sizes as two integers N and M. Then the function should remove all the elements in arr2 from arr1. The function should update arr1 so that it no longer contain elements from arr2. The function should return the new size of arr1. 
-Hint: you can create and use another temporary array in the function. 
+**Hint:** you can create and use another temporary array in the function. 
 
 Then in the main program, read two arrays from the user (first their sizes N, M, and then N+M integers as array elements). Then call the function passing the arrays and their sizes. Then print the first array to see the updated version.
 
@@ -87,6 +91,7 @@ Then in the main program, read two arrays from the user (first their sizes N, M,
 **Ex6: (Teaching.Codes PS14 - Example 2)** We have two two-dimensional matrices whose dimensions are 2x4. Write a function for computing the sum of these two matrices. Write another function to compute the transpose of a given matrix.
 
 - Example Input:
+	
 	1 2 3 4 5 6 7 8
 	
 	8 7 6 5 4 3 2 1
