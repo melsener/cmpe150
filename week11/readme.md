@@ -20,10 +20,12 @@ Hint: Try using ``strlen`` function from ``string.h`` library.
 **Ex2: (Teaching.Codes PS13 - Example 2)** Write a function that copies a source string to the destination string. You can assume that (you should ensure that) destination string is large enough:
 - Example Input:
 	cmpe150
+	
 - Example Output:
 	Source string cmpe150
 	Destination string cmpe150
-Hint: Try using ``strcpy`` function from ``string.h`` library.
+
+	Hint: Try using ``strcpy`` function from ``string.h`` library.
 
 **Ex3: (Teaching.Codes PS13 - Example 4)** Write a function that takes two strings as argument and compares them. The function should perform what ``strcmp`` function from ``string.h`` library. Validate your function by using ``strcmp`` along with your function.
 
@@ -40,7 +42,7 @@ this string has x words
 - Example Output:
 5
 
-**Ex5:** Write a program to find maximum occurring character in a string assume all characters in lowercase.
+**Ex5:** Write a program to find maximum occurring character in a string.
 
 * Example Input:
 
