@@ -24,6 +24,7 @@ You can find the related Xth week's examples above that in the folder "weekX"
 * Week09 - Arrays - [Betul was the assistant in that week](https://github.com/sb-b/cmpe150-spring2020/tree/master/Week9)
 * [Week10](https://github.com/melsener/cmpe150/tree/master/week10) - Multidimensional Arrays and Passing Arrays to Functions
 * [Week11](https://github.com/melsener/cmpe150/tree/master/week11) - Strings
+* [Week12](https://github.com/melsener/cmpe150/tree/master/week12) - Exercises from different topics 
 
 
 ## Home Exercises
