@@ -32,6 +32,8 @@
 
 **Ex5: (Teaching.Codes - PS12 - Example 3)** Suppose we have a sorted array with size N. Write a function that finds a given number in this array, and returns the index of its location. If the number is not found, your function should return -1. Perform search by using binary search algorithm. 
 
+![](https://upload.wikimedia.org/wikipedia/commons/f/f7/Binary_search_into_array.png)
+
 | Input1          | Input2 | Output                 |
 | --------------- | ------ | ---------------------- |
 | 0 2 3 4 7 8 8 9 | 5      | value not found        |
@@ -46,6 +48,8 @@ Example output:
 ```
 
 **Ex7:** Create a two dimensional array in the main function and initialize it with some integers. Then print the content of the array and the address of the each cell of the array using pointers. In other words, you are not allowed to use ``[ ]`` operators inside the loop you have written. You can use the number of rows and number of columns in the loop you have written.
+
+![](https://i1.wp.com/aticleworld.com/wp-content/uploads/2018/04/2darray.jpg?resize=678%2C495&ssl=1)
 
 Example Output:
 ```c
