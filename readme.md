@@ -25,6 +25,7 @@ You can find the related Xth week's examples above that in the folder "weekX"
 * [Week10](https://github.com/melsener/cmpe150/tree/master/week10) - Multidimensional Arrays and Passing Arrays to Functions
 * [Week11](https://github.com/melsener/cmpe150/tree/master/week11) - Strings
 * [Week12](https://github.com/melsener/cmpe150/tree/master/week12) - Exercises from different topics 
+* [Week13](https://github.com/melsener/cmpe150/tree/master/week13) - Structs
 
 
 ## Home Exercises
