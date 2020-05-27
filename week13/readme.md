@@ -1,5 +1,9 @@
 ## Structs
 
+[Why struct assignment works with arrays in structs?](https://stackoverflow.com/questions/35761518/why-struct-assignment-works-with-arrays-in-structs)
+
+[Return a struct from a function in C](https://stackoverflow.com/questions/9653072/return-a-struct-from-a-function-in-c)
+
 **Ex0:** Define a struct named "Point" that holds x and y points as integer. Write a function ``print_point`` that takes a ``struct Point`` as argument and prints its x and y coordinates. Next, write another function ``doubled_point`` that takes a ``struct Point`` as argument and returns a new Point that has the double of coordinate values of the argument. (i.e., if input point has x=1 and y=1, the output point would have x=2 and y=2). In the main function define a ``struct Point`` variable and initialize the coordinates separately (by using ``.``). Then call the ``print_point`` function with the variable you have defined. Next, define another ``struct Point`` and assign it to the first one. Next, define another ``struct Point`` and assign it to the output of ``doubled_point`` function, which uses the first variable you have defined as argument.  Finally, define another ``struct Point`` and initialize it by using ``{}``. Print each of them by using ``print_point`` function.
 
 **Ex1:** Use the struct you have defined in the **Ex0**, but now use ``typedef`` and use ``point`` instead of ``struct Point``. Write a function ``print_point`` that takes a ``point`` as argument and prints its x and y coordinates. Write a function ``call_by_val`` that takes a ``point`` as argument and makes both of the coordinates zero. Write another function ``call_by_ref`` that takes a ``point`` pointer as argument and makes both of the coordinates zero. In the main function, define a ``point`` and initialize it with some non-zero integers. First, call ``call_by_val`` and then ``print_point``. Next, call ``call_by_ref`` and then ``print_point``.
